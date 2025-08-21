@@ -1,51 +1,94 @@
-#**Excel-Sales-Finance-Analytics**
+# Excel Sales & Finance Analytics Project
 
-**Overview**
+## 📌 Project Overview
+This project was developed in **Microsoft Excel** to analyze sales and finance data for a company.  
+The goal of the project was to create an **interactive dashboard** and generate insights that help management track performance across customers, markets, and profitability (P&L).
 
-This project encompasses a comprehensive set of sales analytics reports for AtliQ Hardware, leveraging the powerful features of MS Excel. The reports provide deep insights into various aspects of sales performance, tailored to meet the specific needs of AtliQ Technologies.
+The final deliverables include multiple reports exported from Excel in PDF format.
 
-**Reports Created**
+---
 
-🔹Customer Performance Report: Analyzes individual customer performance.
+## 🛠 Tools & Techniques Used
+- Excel (Advanced)
+- Power Query (Data Cleaning & Transformation)
+- Pivot Tables
+- Pivot Charts
+- Conditional Formatting
+- Interactive Dashboard Design
 
-🔹Market Performance vs Target: Compares market performance against set targets.
+---
 
-🔹Top 10 Products: Identifies the top 10 best-selling products.
+## 📊 Reports Included
+1. **Customer Performance Report**  
+   - Highlights top and bottom customers  
+   - Shows revenue contribution per customer  
+   - Helps identify customer retention & growth opportunities  
 
-🔹Division Level Report: Offers insights at the division level.
+2. **Market Performance vs Target Report**  
+   - Compares actual sales vs target sales  
+   - Region/Market-wise performance analysis  
+   - Identifies over-performing and under-performing markets  
 
-🔹Top and Bottom 5 Products: Highlights the top and bottom 5 products.
+3. **P&L Statement by Fiscal Year**  
+   - Year-wise Profit & Loss summary  
+   - Revenue, Expenses, Net Profit breakdown  
+   - Helps understand financial growth over time  
 
-🔹Top 5 Countries in Fiscal Year 2021: Lists the top 5 countries by sales in FY 2021.
+4. **P&L Statement by Markets**  
+   - Profitability comparison across different markets  
+   - Margin analysis by region  
+   - Identifies the most profitable market segments  
 
-🔹P&L (Profit and Loss) by Fiscal Year: Detailed profit and loss analysis by fiscal year.
+5. **P&L Statement by Months**  
+   - Monthly trend of revenue and expenses  
+   - Identifies seasonality and peak business months  
+   - Supports forecasting and budgeting  
 
-🔹P&L by Fiscal Months: Monthly profit and loss breakdown.
+6. **Overall Project Report** 
+   - End-to-end documentation of objectives, methods, data model, DAX measures, and conclusions.
 
-🔹GM% (Gross Margin %) by Quarters for Sub-Zone: Gross margin percentage by quarters for each sub-zone.
+7. **Division Level Report** 
+   - Performance of different divisions (N&S, P&A, PC).
 
-🔹P&L by Market: Market-specific profit and loss analysis.
+8. **Market Performance Report** 
+   - Country-wise performance vs target in 2021.
 
-🔹Customer Discount Approval Sheet: Facilitates customer discount approvals.
+9. **India Market Report**
+   - Detailed performance of Indian customers like Amazon, Flipkart, Reliance, Croma.
 
-# **Tools and Techniques**
+10. **Top 10 Products Report** 
+   - Highest performing products with sales growth trends.
 
-🔹MS Excel: The primary tool used for data analysis and report creation.
+11. **Top 5 & Bottom 5 Products Report**   
+   - Best and worst performing products by sales.
 
-🔹Pivot Tables: Used for summarizing, analyzing, exploring, and presenting data.
+12. **New Products 2021 Report** 
+   - Market reception and revenue of newly launched products.
 
-🔹Power Query: Utilized for data connection and transformation.
+## 📂 Project Files
+- [Customer Performance Report (PDF)](./Customer%20Performance%20Report.pdf)  
+- [Market Performance vs Target Report (PDF)](./Market%20Performance%20vs%20Target%20Report.pdf)  
+- [P&L Statement by Fiscal Year (PDF)](./P&26L%20Statement%20by%20Fiscal%20Year.pdf)  
+- [P&L Statement by Markets (PDF)](./P&26L%20Statement%20by%20Markets.pdf)  
+- [P&L Statement by Months (PDF)](./P&26L%20Statement%20by%20Months.pdf)  
+- [Excel project_ AtliQ Sales](./Excel%20project_%20AtliQ%20Sales%20(1).pdf)
+- [Division Level Report.pdf](./Division%20Level%20Report.pdf)
+- [Market Performance.pdf](./Market%20Performance.pdf)
+- [India_sales.pdf](./India_sales.pdf)
+- [Top 10 Products.pdf](./Top%2010%20Products.pdf)
+- [Top 5 & Bottom 5 Products.pdf](./Top%205%20&%20Bottom%205%20Products.pdf)  
+- [New Products - 2021.pdf](./New%20Products%20-%202021.pdf)  
+---
 
-🔹PowerPivot: Enhanced data analysis and model creation.
-
-🔹Data Modeling using DAX Formulas: Implemented for creating complex data models and calculations.
-
-# **Fiscal Year Definition**
+## **Fiscal Year Definition**
 
 AtliQ Technologies' fiscal year starts in September and ends in August.
 
-# **Key Highlights**
+---
 
-Hands-on experience with real-world data from AtliQ Technologies.
-Detailed and actionable insights through meticulously crafted reports.
-Utilization of advanced Excel functionalities to meet business analytics needs.
+## 🚀 Key Learnings
+- Practical experience in **MIS Reporting** and **Financial Analysis**  
+- Ability to create **dynamic dashboards** and **performance reports** in Excel  
+- Strengthened skills in **Power Query, Pivot Tables, and Data Visualization**  
+
+---
